@@ -17,11 +17,13 @@
   <br>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git </a>
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux </a> 
+   <a href="https://www.selenium.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium" alt="c" width="40" height="40"/> Selenium </a>
   <h4> Python Frameworks</h4>
   
   <ul>
     <li>Django</li>
     <li>Flask</li>
+    <li>beautifulsoup4</li>
   </ul>
 
   <h4>SQL</h4>
