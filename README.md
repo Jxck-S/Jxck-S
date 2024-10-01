@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with [plane-notify](https://github.com/Jxck-S/plane-notify)
 
-- 📫 How to reach me **jack@jackstech.net**
+- 📫 How to reach me **JackHSweeney@protonmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
