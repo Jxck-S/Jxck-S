@@ -7,20 +7,14 @@ I'm best known for creating **ElonJet** and other high profile aircraft tracking
 
 ### Featured Projects
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://grndcntrl.net">
-        <img src="./assets/cards/groundcontrol.svg" width="100%" alt="Ground Control Card"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://theairtraffic.com">
-        <img src="./assets/cards/theairtraffic.svg" width="100%" alt="TheAirTraffic Card"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://grndcntrl.net">
+    <img src="./assets/cards/groundcontrol.svg" width="400" alt="Ground Control"/>
+  </a>
+  <a href="https://theairtraffic.com">
+    <img src="./assets/cards/theairtraffic.svg" width="400" alt="TheAirTraffic"/>
+  </a>
+</p>
 
 <br/>
 
@@ -32,36 +26,36 @@ I'm best known for creating **ElonJet** and other high profile aircraft tracking
 
 ### Languages
 
-<table>
+<table align="center" border="0">
   <tr>
     <td align="center" width="100">
       <a href="https://www.python.org">
-        <img src="./assets/icons/python.svg" width="40"/><br>Python
+        <img src="./assets/icons/python.svg" width="40"/><br/><b>Python</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="./assets/icons/javascript.svg" width="40"/><br>JavaScript
+        <img src="./assets/icons/javascript.svg" width="40"/><br/><b>JavaScript</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.typescriptlang.org/">
-        <img src="./assets/icons/typescript.svg" width="40"/><br>TypeScript
+        <img src="./assets/icons/typescript.svg" width="40"/><br/><b>TypeScript</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://php.net">
-        <img src="./assets/icons/php.svg" width="40"/><br>PHP
+        <img src="./assets/icons/php.svg" width="40"/><br/><b>PHP</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="./assets/icons/c.svg" width="40"/><br>C
+        <img src="./assets/icons/c.svg" width="40"/><br/><b>C</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.java.com/">
-        <img src="./assets/icons/java.svg" width="40"/><br>Java
+        <img src="./assets/icons/java.svg" width="40"/><br/><b>Java</b>
       </a>
     </td>
   </tr>
@@ -69,31 +63,31 @@ I'm best known for creating **ElonJet** and other high profile aircraft tracking
 
 ### Web & Frameworks
 
-<table>
+<table align="center" border="0">
   <tr>
     <td align="center" width="100">
       <a href="https://nextjs.org/">
-        <img src="./assets/icons/nextjs.svg" width="40"/><br>Next.js
+        <img src="./assets/icons/nextjs.svg" width="40"/><br/><b>Next.js</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://fastapi.tiangolo.com/">
-        <img src="./assets/icons/fastapi.svg" width="40"/><br>FastAPI
+        <img src="./assets/icons/fastapi.svg" width="40"/><br/><b>FastAPI</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://flask.palletsprojects.com/">
-        <img src="./assets/icons/flask.svg" width="40"/><br>Flask
+        <img src="./assets/icons/flask.svg" width="40"/><br/><b>Flask</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://angular.io/">
-        <img src="./assets/icons/angular.svg" width="40"/><br>Angular
+        <img src="./assets/icons/angular.svg" width="40"/><br/><b>Angular</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://nodejs.org/">
-        <img src="./assets/icons/nodejs.svg" width="40"/><br>Node.js
+        <img src="./assets/icons/nodejs.svg" width="40"/><br/><b>Node.js</b>
       </a>
     </td>
   </tr>
@@ -101,16 +95,16 @@ I'm best known for creating **ElonJet** and other high profile aircraft tracking
 
 ### Testing & Automation
 
-<table>
+<table align="center" border="0">
   <tr>
     <td align="center" width="100">
       <a href="https://jestjs.io/">
-        <img src="./assets/icons/jest.svg" width="40"/><br>Jest
+        <img src="./assets/icons/jest.svg" width="40"/><br/><b>Jest</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.selenium.dev/">
-        <img src="./assets/icons/selenium.svg" width="40"/><br>Selenium
+        <img src="./assets/icons/selenium.svg" width="40"/><br/><b>Selenium</b>
       </a>
     </td>
   </tr>
@@ -118,38 +112,36 @@ I'm best known for creating **ElonJet** and other high profile aircraft tracking
 
 ### Tools & DevOps
 
-<table>
+<table align="center" border="0">
   <tr>
     <td align="center" width="100">
       <a href="https://git-scm.com/">
-        <img src="./assets/icons/git.svg" width="40"/><br>Git
+        <img src="./assets/icons/git.svg" width="40"/><br/><b>Git</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.linux.org/">
-        <img src="./assets/icons/linux.svg" width="40"/><br>Linux
+        <img src="./assets/icons/linux.svg" width="40"/><br/><b>Linux</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.docker.com/">
-        <img src="./assets/icons/docker.svg" width="40"/><br>Docker
+        <img src="./assets/icons/docker.svg" width="40"/><br/><b>Docker</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <a href="https://kubernetes.io/">
-        <img src="./assets/icons/kubernetes.svg" width="40"/><br>Kubernetes
+        <img src="./assets/icons/kubernetes.svg" width="40"/><br/><b>Kubernetes</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.ansible.com/">
-        <img src="./assets/icons/ansible.svg" width="40"/><br>Ansible
+        <img src="./assets/icons/ansible.svg" width="40"/><br/><b>Ansible</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.zabbix.com/">
-        <img src="./assets/icons/zabbix.svg" width="40"/><br>Zabbix
+        <img src="./assets/icons/zabbix.svg" width="40"/><br/><b>Zabbix</b>
       </a>
     </td>
   </tr>
@@ -157,21 +149,21 @@ I'm best known for creating **ElonJet** and other high profile aircraft tracking
 
 ### Databases
 
-<table>
+<table align="center" border="0">
   <tr>
     <td align="center" width="100">
       <a href="https://www.postgresql.org/">
-        <img src="./assets/icons/postgresql.svg" width="40"/><br>PostgreSQL
+        <img src="./assets/icons/postgresql.svg" width="40"/><br/><b>PostgreSQL</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.mysql.com/">
-        <img src="./assets/icons/mysql.svg" width="40"/><br>MySQL
+        <img src="./assets/icons/mysql.svg" width="40"/><br/><b>MySQL</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://mariadb.org/">
-        <img src="./assets/icons/mariadb.svg" width="40"/><br>MariaDB
+        <img src="./assets/icons/mariadb.svg" width="40"/><br/><b>MariaDB</b>
       </a>
     </td>
   </tr>
@@ -179,21 +171,21 @@ I'm best known for creating **ElonJet** and other high profile aircraft tracking
 
 ### Infrastructure & Proxy
 
-<table>
+<table align="center" border="0">
   <tr>
     <td align="center" width="100">
       <a href="https://www.proxmox.com/">
-        <img src="./assets/icons/proxmox.svg" width="40"/><br>Proxmox
+        <img src="./assets/icons/proxmox.svg" width="40"/><br/><b>Proxmox</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.haproxy.org/">
-        <img src="./assets/icons/haproxy.svg" width="40"/><br>HAProxy
+        <img src="./assets/icons/haproxy.svg" width="40"/><br/><b>HAProxy</b>
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.nginx.com/">
-        <img src="./assets/icons/nginx.svg" width="40"/><br>Nginx
+        <img src="./assets/icons/nginx.svg" width="40"/><br/><b>Nginx</b>
       </a>
     </td>
   </tr>
