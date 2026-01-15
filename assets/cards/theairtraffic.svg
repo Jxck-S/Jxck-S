@@ -1,0 +1,74 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          width: 100%;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        .card {
+          width: 360px;
+          height: 160px;
+          background: #0d1117;
+          border-radius: 12px;
+          border: 1px solid #30363d;
+          padding: 20px;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+          color: #c9d1d9;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          border-left: 6px solid #990000;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+        .header {
+          display: flex;
+          align-items: center;
+          gap: 15px;
+          margin-bottom: 12px;
+        }
+        .logo {
+          width: 48px;
+          height: 48px;
+          border-radius: 8px;
+          background: #1a1a1a;
+          object-fit: contain;
+        }
+        .title {
+          font-size: 20px;
+          font-weight: 700;
+          margin: 0;
+          color: #f0f6fc;
+          letter-spacing: -0.5px;
+        }
+        .url {
+          font-size: 13px;
+          color: #990000;
+          margin-top: 2px;
+          font-weight: 500;
+        }
+        .description {
+          font-size: 14px;
+          line-height: 1.5;
+          margin: 0;
+          color: #8b949e;
+        }
+      </style>
+      <div class="container">
+        <div class="card">
+          <div class="header">
+            <img class="logo" src="data:image/png;base64,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" />
+            <div>
+              <h2 class="title">TheAirTraffic</h2>
+              <div class="url">theairtraffic.com</div>
+            </div>
+          </div>
+          <p class="description">Global ADS-B data aggregator and sharing service. The backbone for aviation intelligence and open data transparency.</p>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

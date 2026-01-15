@@ -1,0 +1,74 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          width: 100%;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        .card {
+          width: 360px;
+          height: 160px;
+          background: #0d1117;
+          border-radius: 12px;
+          border: 1px solid #30363d;
+          padding: 20px;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+          color: #c9d1d9;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          border-left: 6px solid #58a6ff;
+          box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+        .header {
+          display: flex;
+          align-items: center;
+          gap: 15px;
+          margin-bottom: 12px;
+        }
+        .logo {
+          width: 48px;
+          height: 48px;
+          border-radius: 8px;
+          background: #1a1a1a;
+          object-fit: contain;
+        }
+        .title {
+          font-size: 20px;
+          font-weight: 700;
+          margin: 0;
+          color: #f0f6fc;
+          letter-spacing: -0.5px;
+        }
+        .url {
+          font-size: 13px;
+          color: #58a6ff;
+          margin-top: 2px;
+          font-weight: 500;
+        }
+        .description {
+          font-size: 14px;
+          line-height: 1.5;
+          margin: 0;
+          color: #8b949e;
+        }
+      </style>
+      <div class="container">
+        <div class="card">
+          <div class="header">
+            <img class="logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAAIwUlEQVR4nO2ba3BVVxXHf+vcCwEBQ0PAAnk0IM5QZ6JBRh41ptAATh0r9OXojPqJosXBonXGx1jrY5TacSpVR4gf1Fp1JlKqwwgyoUmA4dUO0BKhM4RHwoVgKYRHHWjDPXv54Zyb5N67z72595zEVrtm7ofzPzv/9d/77L3WfgX+z03SnlQdrr6yEuPspay2ox+/9uok3JtfwIn9ntIP9ob22vvyl4C6NMzhEBM/vDE0d5DW3o5aHHcBpR/6DSImBcfThXXMw5ENoNuBT/Tjyb6HEH6Me7MEWBdapMgvgVgapiSB8A0QqFWfRGUpvUdeAfan0PQGcNwS1AGkJEOc96wyJrRAj8+vvKzygY1ZWornDtI6GgUck4Y7aUWScdD0UTFAHIAXYyrer6y2ibLapv7nKPmD8GR6O2e3uslC7FgYy+SLkj+Iy7XD2Q1gaz3jeOEyqq+UyRPl1w/SmnrOgNMbIIk3KGx6NCKBNq4ouXPxKVk9wd4DMgkMIAIakdJh7QHYtZqUj3Tc0gABxO/0HhDgY2gNYPDHVQhRNh89HS2BPou1IK2p5/wxQLwulGaOTxBZELwATAFpHIS+Fg15kFbHGxZuviEwImkwPgfHnZ2Guc6xaLgD8KGlwbg90EUdBHlPL8kbp9IgZ+zlSKiDtKZ6heSaCI1UGjRvdAAzM7BO4AOR8EefBiOfCKUqn+oFM4BZkXAHaTV27f/dNFgz22uI069GmwjfMWkwl89iLZo0aCHWCFtgOGeC/XyZWv2hnTcNquVv/xd6QEB6tMwDhKwuEHUQzAxIAQGqOO6gIOgACpKrB7y7GvQnQiO1Gjx+vLGfPyoLXA2C92Xz7QiNTBo0gINLyyA0umZ426dBZB2qH80A91uLFmrDkwYjXg3OnvUdT5R6m7KD9unDW5BWscYAh0xT7JuWNrxY++eJOzja2c6xE30cO9HH0c52jnQuiIQ7SGsKz7DsBjBiSVMpPAKBHaeWYGjDlQZccfxfA0g7R0425ifIY0FabfUi61yA4Q2Cqg7GbEAZhaEJN1aGGyvD0IQyGtUNaASTjVx1SKZDliEg/qRhkBnHjhdqR07ejsoMVM5zObGaupor1NVc4XJiNSrnUZnJ4ROz8xPlsCCtKTzD7DGggDRSkLmxSR6/HmfRooFvsWhREtXjno/45NB+gvRb8JFNg5IU7+zRyWZSx5uBSTLcECgwDY7s2WAu/pSPZARnpKHOBod7NRg0xKJKsdGsBjOxCFeDQSu/FB7WRb4tsdxDgOFNg7n4Uz6SOd4P1QpIgyM7BBwZZ11tpnykyoSxAoeAfR5g6+phu//+rvtQnvV45Hx2ATnv70g/y76ue0P5CtJf9DwgzFpga2cJe7t+gWEThokom7mhD2eVi7tfRtnsl9nE3tM/5+jR0QX7C9IaEHwtMUCyYG+FZcPz2J5T1ZSWtKPyFVRuovJNFlTfz6KaK1ll5868ysLb7gNZ5ZV1vsrV8XvZc2amhTmHBWn18fxTYaJZDe46sxyNHUZ1Pko3aj7OHdVPIJI7kiysbsKwEOUkho+geojd3Q8M2W+41WDcfjIEQ48BWztL2J1Yj/A8Kreg8leUOj5WM/QNj/rqg8T75qDOX1B5L0gzuxMbhzwkrDEghWdcjEt7SmJvKTPol8vaTt/GuJKdGF2D4S2MPkJ91Qrqqws/+Jw/6xr1lQ9idBWGPow+xMUJe9jdPSPn3wVpTfWKYRsC7YkVSOwwyjxUunGlgYbq9TnFDsUaqptwdSHKKZS5uHKItu77A8uH3hCxpos8QbAt8TjKZlQmAs1cf7OWxZUHrGV3dN9O24XxWfjWzhJ2JuwHpIurDxLTuaj8DZVScJppT3zDLiZA67ClwdZEA8r3UPow+jB3Vn2Gu2ddy6rcC2c/T2viJRznKOat32bxjBnzK1yO05rYT2viczRnjPf66svcWbECla+huBieoDUxL4snmjRYyERI7vFb96fcVfXrtFe7uqbSmvg+JWO7gWdQmevzZ98DUJnt88xD5Y+UlXbReva7bP/XlAFXoiyueArDU6gI6iy3SrJqlWFKg64av3XH9mMtZ+fTkvgTffEujDyG8j6UlzH6Lb9sucVvuf/uhygdwFQMPyCWPMOOs7/jhZ45gyrj+Bsr2d80mhhQwETIsAkVg8paWnr+Tsu5QyD7wPksKg7G2YTrNNBYUcc41vtfeZLFbzkqEHOeprGiFpe7vBQqo1D5IkYP0nJuHzvObUblEVQMxJ63VskaA4ayJVZMGlxWeQAjazHcxOjdGOowXMKwDsMMlk57gGXTdgGwsPIGhusYStICYZvGMdyCwWXnVO+O/7KKVpZMX4GJvR+Vn2G4gmE+LiswuBhZS+PUl7L0FJgGo1kNLpv2NFsSzzEqNh91L/EGB3iw8oa1rHIRqOJNtxz4NwB9r5WhCNDL4xmHJMtuPQ08ypaex4hTj6MTcWQfS6adsfKH2xAJuCUG5L0g8anKc8BzwQX6eS4BVTg6Cejy0Sl+93w9mH/adWB7Xv4grf2nRcUcjka5JWa4hAAuA3HAaLnPfTEC/rf52aDIRZ9rIBMo5X4PCN8ABZ4NjvymqOv3AAb1AFfLveu5EjwEhmqhN0VzbotH0AIiV1BAmDAInOBPkK6Gd0BADEjVq5grMlHe4HDxVnMiA91dpdfXVROaP0hrqmdnvB/Z4/EtF6ej3OvN5ZPbBnzGtqEkUV3Olp6qUD5GfCZYiN10v45KCSrNLJ+e6Mc/PbkHlT+jMoqk82g4J2FmghD9pmjKmhNlwEoUxZUns/26P0ExqKyk+cKtRfspcDWYEQPi3rml9ZpcyCAYG70GlfHAeRyWsvnC0mwf9AAVxFgDfLtoX0FaVcDNNRFSTfp7ZxkzZvFwycQLEpVauk5F8/37rdxD0Q0QoNWIC+rVcZBlpMHJL8Lr6zD8Ix1P/gHi5bjxZ4oTBYiuxsgncfIEEoMB3ZazTE4L0Kr8CHjRq+O71m//AResYjmlF5yVAAAAAElFTkSuQmCC" />
+            <div>
+              <h2 class="title">Ground Control</h2>
+              <div class="url">grndcntrl.net</div>
+            </div>
+          </div>
+          <p class="description">Targeted jet tracking and alerting platform for aircraft of interest. Optimized for precision and real time intelligence.</p>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

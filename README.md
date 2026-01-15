@@ -1,110 +1,199 @@
-<h1 align="center">Hi 👋, I'm Jack Sweeney</h1>
-<h3 align="center">I create open-source aviation tracking systems, alerts, and data platforms.</h3>
+<h1 align="center">Hi, I'm Jack Sweeney</h1>
+<h3 align="center">I create open source aviation tracking systems, alerts, and data platforms.</h3>
 
-I'm best known for creating **ElonJet** and other high-profile aircraft tracking accounts using public ADS-B data. The foundation of that work began with my project [**plane-notify**](https://github.com/Jxck-S/plane-notify) — a real-time aircraft alerting system that notifies users when aircraft of interest are airborne, nearby, or meet custom criteria. This evolved into an ecosystem of tools for transparency, aviation analysis, and public awareness.
-
-- ✈️ **Ground Control** ([grndcntrl.net](https://grndcntrl.net)) – A targeted jet-tracking and alerting platform for aircraft of interest. Ground Control powers custom monitoring, advanced filtering, and focused real-time notifications for specific tail numbers and flight behaviors.
-
-- 🌐 **TheAirTraffic** ([theairtraffic.com](https://theairtraffic.com)) – A global ADS-B data aggregator and sharing service that acts as the infrastructure behind Ground Control. It collects, enriches, and distributes open aircraft surveillance data, helping researchers, enthusiasts, and developers access meaningful aviation insight.
-
-- 🛰️ I continue to develop systems that track high-profile aircraft—including those used by public figures and celebrities—to promote accountability and transparency through open data.
+I'm best known for creating **ElonJet** and other high profile aircraft tracking platforms using public ADS-B data. I started with [**plane-notify**](https://github.com/Jxck-S/plane-notify) to open up aviation transparency and have since evolved my work into a global ecosystem of real time data and alerting tools.
 
 ---
 
-- 🔭 Currently maintaining and expanding [plane-notify](https://github.com/Jxck-S/plane-notify)
-- 🤝 Open to collaborators interested in aviation data, ADS-B, or open-source systems
-- 📫 Reach me at: **JackHSweeney@protonmail.com**
+### Featured Projects
 
-### 💻 Languages & Tools
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://grndcntrl.net">
+        <img src="./assets/cards/groundcontrol.svg" width="100%" alt="Ground Control Card"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://theairtraffic.com">
+        <img src="./assets/cards/theairtraffic.svg" width="100%" alt="TheAirTraffic Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🧰 Languages & Tools
+<br/>
+
+---
+
+- Currently maintaining and growing **TheAirTraffic** and **Ground Control** while supporting [**plane-notify**](https://github.com/Jxck-S/plane-notify) as a smaller scope explanatory tool
+- Open to collaborators interested in aviation data, ADS-B, or open source systems
+- Reach me at: **JackHSweeney@protonmail.com**
+
+### Languages
 
 <table>
   <tr>
     <td align="center" width="100">
       <a href="https://www.python.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python
+        <img src="./assets/icons/python.svg" width="40"/><br>Python
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+        <img src="./assets/icons/javascript.svg" width="40"/><br>JavaScript
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.typescriptlang.org/">
+        <img src="./assets/icons/typescript.svg" width="40"/><br>TypeScript
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://php.net">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP
+        <img src="./assets/icons/php.svg" width="40"/><br>PHP
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C
+        <img src="./assets/icons/c.svg" width="40"/><br>C
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.java.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java
+        <img src="./assets/icons/java.svg" width="40"/><br>Java
       </a>
     </td>
   </tr>
+</table>
+
+### Web & Frameworks
+
+<table>
   <tr>
     <td align="center" width="100">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript
+      <a href="https://nextjs.org/">
+        <img src="./assets/icons/nextjs.svg" width="40"/><br>Next.js
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://fastapi.tiangolo.com/">
+        <img src="./assets/icons/fastapi.svg" width="40"/><br>FastAPI
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://flask.palletsprojects.com/">
+        <img src="./assets/icons/flask.svg" width="40"/><br>Flask
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://angular.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br>Angular
+        <img src="./assets/icons/angular.svg" width="40"/><br>Angular
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://nodejs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+        <img src="./assets/icons/nodejs.svg" width="40"/><br>Node.js
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Testing & Automation
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://jestjs.io/">
+        <img src="./assets/icons/jest.svg" width="40"/><br>Jest
       </a>
     </td>
     <td align="center" width="100">
+      <a href="https://www.selenium.dev/">
+        <img src="./assets/icons/selenium.svg" width="40"/><br>Selenium
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Tools & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="100">
       <a href="https://git-scm.com/">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git
+        <img src="./assets/icons/git.svg" width="40"/><br>Git
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>Linux
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.selenium.dev/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/><br>Selenium
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.postgresql.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="https://mariadb.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40"/><br>MariaDB
+        <img src="./assets/icons/linux.svg" width="40"/><br>Linux
       </a>
     </td>
     <td align="center" width="100">
       <a href="https://www.docker.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br>Docker
+        <img src="./assets/icons/docker.svg" width="40"/><br>Docker
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
       <a href="https://kubernetes.io/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/><br>Kubernetes
+        <img src="./assets/icons/kubernetes.svg" width="40"/><br>Kubernetes
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.ansible.com/">
+        <img src="./assets/icons/ansible.svg" width="40"/><br>Ansible
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.zabbix.com/">
+        <img src="./assets/icons/zabbix.svg" width="40"/><br>Zabbix
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Databases
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.postgresql.org/">
+        <img src="./assets/icons/postgresql.svg" width="40"/><br>PostgreSQL
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mysql.com/">
+        <img src="./assets/icons/mysql.svg" width="40"/><br>MySQL
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://mariadb.org/">
+        <img src="./assets/icons/mariadb.svg" width="40"/><br>MariaDB
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Infrastructure & Proxy
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.proxmox.com/">
+        <img src="./assets/icons/proxmox.svg" width="40"/><br>Proxmox
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.haproxy.org/">
+        <img src="./assets/icons/haproxy.svg" width="40"/><br>HAProxy
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.nginx.com/">
+        <img src="./assets/icons/nginx.svg" width="40"/><br>Nginx
       </a>
     </td>
   </tr>
@@ -113,21 +202,17 @@ I'm best known for creating **ElonJet** and other high-profile aircraft tracking
 
 ---
 
-### 🧠 Skills & Experience
+### Skills & Experience
 
-- **Programming Languages:** Python, JavaScript, TypeScript, Java, C, PHP, HTML, CSS, SQL  
-- **Frameworks & Libraries:** Django, Flask, BeautifulSoup, Angular, Node.js  
-- **Dev Tools & Platforms:** Git, Docker, Kubernetes, Postman, Curl, Selenium, Cypress, Figma  
-- **Operating Systems & Infra:** Linux, VMware vSphere, REST APIs, WebSockets  
-- **Networking:** TCP/IP, DNS, DHCP, VLANs, NAT, LACP, VPN, SSH  
-- **Databases:** PostgreSQL, MariaDB, MySQL  
-- **Methodologies:** Agile, UML, Jira, Rally  
-- **Other:** Regex, Test Automation, Technical Writing, System Monitoring
+- ![Languages](https://img.shields.io/badge/-Programming_Languages-black?style=flat-square) Python, JavaScript, TypeScript, Java, C, PHP, HTML, CSS, SQL  
+- ![Frameworks](https://img.shields.io/badge/-Frameworks_&_Libraries-black?style=flat-square) Next.js, FastAPI, Flask, Django, BeautifulSoup, Angular, Node.js  
+- ![DevTools](https://img.shields.io/badge/-Dev_Tools_&_Platforms-black?style=flat-square) Git, Docker, Kubernetes, Ansible, Zabbix, Postman, Curl, Jest, Selenium, Cypress, Figma  
+- ![Infra](https://img.shields.io/badge/-OS_&_Infrastructure-black?style=flat-square) Linux, VMware vSphere, Proxmox, HAProxy, Nginx, REST APIs, WebSockets  
+- ![Networking](https://img.shields.io/badge/-Networking-black?style=flat-square) TCP/IP, DNS, DHCP, VLANs, NAT, LACP, VPN, SSH  
+- ![Databases](https://img.shields.io/badge/-Databases-black?style=flat-square) PostgreSQL, MariaDB, MySQL  
+- ![Methodologies](https://img.shields.io/badge/-Methodologies-black?style=flat-square) Agile, UML, Jira, Rally  
+- ![Other](https://img.shields.io/badge/-Other-black?style=flat-square) Regex, Test Automation, Technical Writing, System Monitoring, Zabbix
+
 
 ---
 
-### 🧪 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jxck-s&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
